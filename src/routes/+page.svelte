@@ -1,6 +1,5 @@
 <script lang="ts">
 	import TextField from '$lib/form/TextField.svelte';
-	import '$lib/assets/global.css';
 </script>
 
 <TextField id="username" name="username" label="username" placeholder="Masukan username" />
